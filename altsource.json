@@ -1,0 +1,24 @@
+{
+    "name": "DevilutionX AltSource",
+    "identifier": "com.devilutionx.altsource",
+    "subtitle": "Save Tristram from the Lord of Terror!",
+    "apps": [
+        {
+            "bundleIdentifier": "com.diasurgical.devilutionx",
+            "developerName": "Diasurgical",
+            "downloadURL": "https:\/\/github.com\/diasurgical\/devilutionX\/releases\/download\/1.5.3\/devilutionx-iOS.ipa",
+            "iconURL": "https:\/\/github.com\/vekicante0\/DevilutionX-AltSource\/blob\/main\/sourcepics\/devilutionxicon.png",
+            "localizedDescription": "Please note that for the complete gaming experience, data from the original Diablo is required. If you don't own Diablo, you can purchase it from GOG.com (unaffiliated). However, even without the original game, you can still enjoy the demo portion. Enjoy a fully featured port of Diablo and the Hellfire expansion with quality of life features. Hellfire support also requires hellfire.mpq, hfmonk.mpq, hfvoice.mpq and hfmusic.mpq. Visit us on GitHub: https://github.com/diasurgical/devilutionX#readme",
+            "name": "DevilutionX",
+            "screenshotURLs": [
+                "https://github.com/vekicante0/DevilutionX-AltSource/blob/main/sourcepics/1.jpg",
+                "https://github.com/vekicante0/DevilutionX-AltSource/blob/main/sourcepics/2.jpg",
+                "https://github.com/vekicante0/DevilutionX-AltSource/blob/main/sourcepics/3.jpg"
+            ],
+            "size": 7650000,
+            "tintColor": "#ff0000",
+            "version": "1.5.3",
+            "versionDate": "2024-08-31"
+        }
+    ]
+}
