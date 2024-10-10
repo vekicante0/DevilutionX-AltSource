@@ -7,7 +7,7 @@
             "bundleIdentifier": "com.diasurgical.devilutionx",
             "developerName": "Diasurgical",
             "downloadURL": "https:\/\/github.com\/diasurgical\/devilutionX\/releases\/download\/1.5.3\/devilutionx-iOS.ipa",
-            "iconURL": "https://raw.githubusercontent.com/vekicante0/DevilutionX-AltSource/refs/heads/main/sourcepics/devilutionxicon.png",
+            "iconURL": "https://raw.githubusercontent.com/vekicante0/DevilutionX-AltSource/refs/heads/main/sourcepics/icon.png",
             "localizedDescription": "Please note that for the complete gaming experience, data from the original Diablo is required. If you don't own Diablo, you can purchase it from GOG.com (unaffiliated). However, even without the original game, you can still enjoy the demo portion. Enjoy a fully featured port of Diablo and the Hellfire expansion with quality of life features. Hellfire support also requires hellfire.mpq, hfmonk.mpq, hfvoice.mpq and hfmusic.mpq. Visit us on GitHub: https://github.com/diasurgical/devilutionX#readme",
             "name": "DevilutionX",
             "screenshotURLs": [
